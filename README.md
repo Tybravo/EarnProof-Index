@@ -1,4 +1,4 @@
-# EarnProof Frontend
+# EarnProof-Index (Frontend)
 
 EarnProof is an open-source, privacy-focused income and payment verification protocol built on Stellar.
 
